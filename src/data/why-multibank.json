@@ -1,0 +1,27 @@
+{
+  "pageTitlePattern": "About mb.io",
+  "mainHeading": "Why MultiBank Group?",
+  "introHeadingPattern": "For nearly two decades",
+  "sections": [
+    {
+      "heading": "A tradition of global leadership",
+      "textPattern": "Founded in 2005"
+    },
+    {
+      "heading": "Innovation with purpose",
+      "textPattern": "technology should simplify finance"
+    },
+    {
+      "heading": "Integrity built into every decision",
+      "textPattern": "Trust is earned through consistent action"
+    },
+    {
+      "heading": "The strength behind MultiBank Group",
+      "textPattern": ""
+    },
+    {
+      "heading": "Community & Media",
+      "textPattern": "latest news and discussions"
+    }
+  ]
+}

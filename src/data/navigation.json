@@ -1,0 +1,31 @@
+{
+  "marketing": {
+    "items": [
+      {
+        "label": "Explore",
+        "path": "/en-AE/explore",
+        "expectedUrlPattern": "/explore"
+      },
+      {
+        "label": "Features",
+        "path": "/en-AE/features",
+        "expectedUrlPattern": "/features"
+      },
+      {
+        "label": "OTC Desk",
+        "path": "/en-AE/features/otc-desk",
+        "expectedUrlPattern": "/otc"
+      },
+      {
+        "label": "Company",
+        "path": "/en-AE/company",
+        "expectedUrlPattern": "/company"
+      },
+      {
+        "label": "Support",
+        "path": "/en-AE/support",
+        "expectedUrlPattern": "/support"
+      }
+    ]
+  }
+}
